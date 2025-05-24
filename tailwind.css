@@ -27,7 +27,9 @@
   }
 
   h1, h2, h3, p, li {
-    color: yellow !important;
+    color: black !important;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) !important;
+    -webkit-font-smoothing: antialiased !important;
   }
 
   html {
